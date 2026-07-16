@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "forgottenruins:mangrove_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "forgottenruins:mangrove_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 8,
+    "spread_type": "triangular",
+    "salt": 492178341
+  }
+}

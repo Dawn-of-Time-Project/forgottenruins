@@ -1,11 +1,11 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#forgottenruins:ruin3",
+  "biomes": "#forgottenruins:jungle",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "forgottenruins:ruin3",
-  "size": 7,
+  "start_pool": "forgottenruins:jungle_ancient_city",
+  "size": 1,
   "start_height": {
     "absolute": 0
   },

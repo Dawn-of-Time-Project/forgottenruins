@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "forgottenruins:swamp_ruin",
+      "weight": 1
+    },
+    {
+      "structure": "forgottenruins:swamp_ancient_city",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 8,
+    "spread_type": "triangular",
+    "salt": 38492112
+  }
+}

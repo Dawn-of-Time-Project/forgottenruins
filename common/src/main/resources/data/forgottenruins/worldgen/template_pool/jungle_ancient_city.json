@@ -1,5 +1,5 @@
 {
-    "name": "forgottenruins:ruin1",
+    "name": "forgottenruins:jungle_ancient_city",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -7,7 +7,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
-                "location": "forgottenruins:ruin1"
+                "location": "forgottenruins:jungle_ancient_city"
             },
             "weight": 1
         }

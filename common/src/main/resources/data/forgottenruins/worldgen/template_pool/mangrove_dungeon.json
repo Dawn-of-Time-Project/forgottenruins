@@ -1,5 +1,5 @@
 {
-    "name": "forgottenruins:ruin2",
+    "name": "forgottenruins:mangrove_dungeon",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -7,7 +7,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
-                "location": "forgottenruins:ruin2"
+                "location": "forgottenruins:mangrove_dungeon"
             },
             "weight": 1
         }

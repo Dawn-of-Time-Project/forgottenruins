@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "forgottenruins:desert_library",
+      "weight": 1
+    },
+    {
+      "structure": "forgottenruins:desert_temple",
+      "weight": 1
+    },
+    {
+      "structure": "forgottenruins:savaged_library",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 8,
+    "spread_type": "triangular",
+    "salt": 1914477
+  }
+}

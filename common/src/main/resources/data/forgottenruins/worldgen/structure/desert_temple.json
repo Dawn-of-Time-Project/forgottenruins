@@ -1,11 +1,11 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#forgottenruins:desert_temple",
+  "biomes": "#forgottenruins:desert",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "forgottenruins:desert_temple",
-  "size": 7,
+  "size": 1,
   "start_height": {
     "absolute": 0
   },

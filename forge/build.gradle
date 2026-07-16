@@ -56,7 +56,7 @@ dependencies {
 }
 
 publishMods {
-    file = jar.archiveFile
+    file = layout.buildDirectory.file("libs/${mod_id}-forge-${minecraft_version}-${project.version}.jar")
     modLoaders.add("forge")
 
     curseforge {

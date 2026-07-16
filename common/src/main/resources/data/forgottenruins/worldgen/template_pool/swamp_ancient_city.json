@@ -1,5 +1,5 @@
 {
-    "name": "forgottenruins:ruin5",
+    "name": "forgottenruins:swamp_ancient_city",
     "fallback": "minecraft:empty",
     "elements": [
         {
@@ -7,7 +7,7 @@
                 "element_type": "minecraft:single_pool_element",
                 "processors": "minecraft:empty",
                 "projection": "rigid",
-                "location": "forgottenruins:ruin5"
+                "location": "forgottenruins:swamp_ancient_city"
             },
             "weight": 1
         }

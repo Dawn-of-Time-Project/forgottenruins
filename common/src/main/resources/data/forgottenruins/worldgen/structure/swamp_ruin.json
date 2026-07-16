@@ -1,11 +1,11 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#forgottenruins:ruin2",
+  "biomes": "#forgottenruins:swamp",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "forgottenruins:ruin2",
-  "size": 7,
+  "start_pool": "forgottenruins:swamp_ruin",
+  "size": 1,
   "start_height": {
     "absolute": 0
   },
